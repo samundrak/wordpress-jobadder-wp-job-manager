@@ -1,0 +1,731 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Jobs advertiser="Intuitive Health" account="Intuitive Health" jid="4788" source="uyoemdxon5huff5qj4ateghr4y">
+  <Fields>
+    <Field jid="21196" type="List" name="Category">
+      <Values>
+        <Value jid="1382102" name="Accounting">
+          <Field jid="21197" type="List" name="Sub Category">
+            <Values>
+              <Value jid="1382135" name="Accountant - Chartered / CPA" />
+              <Value jid="1382136" name="Accountant - Cost" />
+              <Value jid="1382137" name="Accountant - Credit &amp; Risk" />
+              <Value jid="1382138" name="Accountant - Financial" />
+              <Value jid="1382139" name="Accountant - Forensic / Advisory" />
+              <Value jid="1382140" name="Accountant - Payroll" />
+              <Value jid="1382141" name="Accountant - Systems" />
+              <Value jid="1382142" name="Accountant - Tax" />
+              <Value jid="1382143" name="Accountant - Treasury" />
+              <Value jid="1382144" name="Accounts Clerk" />
+              <Value jid="1382145" name="Accounts Payable" />
+              <Value jid="1382146" name="Accounts Receivable" />
+              <Value jid="1382147" name="Administration" />
+              <Value jid="1382148" name="Auditor / Professional Services" />
+              <Value jid="1382149" name="Bookkeeper" />
+              <Value jid="1382150" name="Consulting / Business Services" />
+              <Value jid="1382151" name="Finance Manager" />
+              <Value jid="1382152" name="Financial Controller" />
+              <Value jid="1382153" name="Insolvency Practitioner" />
+              <Value jid="1382154" name="Management Accountant" />
+              <Value jid="1382155" name="Purchasing / Inventory" />
+            </Values>
+          </Field>
+        </Value>
+        <Value jid="1382103" name="Admin / Secretarial / Office Support">
+          <Field jid="21197" type="List" name="Sub Category">
+            <Values>
+              <Value jid="1382156" name="Administration" />
+              <Value jid="1382157" name="Contracts Administrator" />
+              <Value jid="1382158" name="Data Entry Clerk" />
+              <Value jid="1382159" name="Executive Assistant" />
+              <Value jid="1382160" name="Office Junior / Assistant" />
+              <Value jid="1382161" name="Office Manager" />
+              <Value jid="1382162" name="Personal Assistant" />
+              <Value jid="1382163" name="Receptionist" />
+              <Value jid="1382164" name="Secretary" />
+              <Value jid="1382165" name="Other" />
+            </Values>
+          </Field>
+        </Value>
+        <Value jid="1382104" name="Advertising / Media / Publishing">
+          <Field jid="21197" type="List" name="Sub Category">
+            <Values>
+              <Value jid="1382166" name="Account Manager" />
+              <Value jid="1382167" name="Advertising - Creative Services" />
+              <Value jid="1382168" name="Advertising Specialist" />
+              <Value jid="1382169" name="Journalism / Copywriter" />
+              <Value jid="1382170" name="Publishing" />
+            </Values>
+          </Field>
+        </Value>
+        <Value jid="1382105" name="Agribusiness &amp; Farming">
+          <Field jid="21197" type="List" name="Sub Category">
+            <Values>
+              <Value jid="1382171" name="Agribusiness Manager" />
+              <Value jid="1382172" name="Agronomist" />
+              <Value jid="1382173" name="Aquiculture / Fish Farmer" />
+              <Value jid="1382174" name="Farmer / Farm Hand" />
+              <Value jid="1382175" name="Forestry Planner / Modeller" />
+              <Value jid="1382176" name="Grower" />
+              <Value jid="1382177" name="Picker" />
+              <Value jid="1382178" name="Viticulture" />
+            </Values>
+          </Field>
+        </Value>
+        <Value jid="1382106" name="Architecture &amp; Interior Design">
+          <Field jid="21197" type="List" name="Sub Category">
+            <Values>
+              <Value jid="1382179" name="Architect" />
+              <Value jid="1382180" name="CAD / Draftsperson" />
+              <Value jid="1382181" name="Interior Designer" />
+              <Value jid="1382182" name="Landscape Architect" />
+              <Value jid="1382183" name="Lighting Specialist" />
+              <Value jid="1382184" name="Project Manager" />
+              <Value jid="1382185" name="Technician" />
+            </Values>
+          </Field>
+        </Value>
+        <Value jid="1382107" name="Arts &amp; Entertainment">
+          <Field jid="21197" type="List" name="Sub Category">
+            <Values>
+              <Value jid="1382186" name="Actors / Dancers / Singers" />
+              <Value jid="1382187" name="Animation / Cartoonist" />
+              <Value jid="1382188" name="Artist / Painter" />
+              <Value jid="1382189" name="Illustration" />
+              <Value jid="1382190" name="Museum" />
+              <Value jid="1382191" name="Musician" />
+              <Value jid="1382192" name="Photography" />
+              <Value jid="1382193" name="Producer" />
+              <Value jid="1382194" name="TV / Film / Radio" />
+              <Value jid="1382195" name="Other" />
+            </Values>
+          </Field>
+        </Value>
+        <Value jid="1382108" name="Banking &amp; Finance">
+          <Field jid="21197" type="List" name="Sub Category">
+            <Values>
+              <Value jid="1382196" name="Analyst" />
+              <Value jid="1382197" name="Bank Officer / Teller" />
+              <Value jid="1382198" name="Banking - Compliance" />
+              <Value jid="1382199" name="Business &amp; Corporate Banking" />
+              <Value jid="1382200" name="Client Services" />
+              <Value jid="1382201" name="Credit &amp; Collections" />
+              <Value jid="1382202" name="Financial Planning" />
+              <Value jid="1382203" name="Funds Management" />
+              <Value jid="1382204" name="Investment Banking" />
+              <Value jid="1382205" name="Manager" />
+              <Value jid="1382206" name="Mortgages / Lending" />
+              <Value jid="1382207" name="Retail / Consumer Banking" />
+              <Value jid="1382208" name="Settlements" />
+              <Value jid="1382209" name="Stock Broking" />
+              <Value jid="1382210" name="Superannuation" />
+              <Value jid="1382211" name="Treasury and/or Risk Specialist" />
+              <Value jid="1382212" name="Other" />
+            </Values>
+          </Field>
+        </Value>
+        <Value jid="1382109" name="Building &amp; Construction">
+          <Field jid="21197" type="List" name="Sub Category">
+            <Values>
+              <Value jid="1382213" name="Building Services" />
+              <Value jid="1382214" name="Construction Manager" />
+              <Value jid="1382215" name="Contracts Manager" />
+              <Value jid="1382216" name="Demolition &amp; Excavation" />
+              <Value jid="1382217" name="Driver / Operator" />
+              <Value jid="1382218" name="Estimating" />
+              <Value jid="1382219" name="Foreperson / Supervisor" />
+              <Value jid="1382220" name="Labourer" />
+              <Value jid="1382221" name="OH &amp; S" />
+              <Value jid="1382222" name="Planning" />
+              <Value jid="1382223" name="Project Management" />
+              <Value jid="1382224" name="Property Developer" />
+              <Value jid="1382225" name="Site Manager" />
+              <Value jid="1382226" name="Surveying" />
+              <Value jid="1382227" name="Other" />
+            </Values>
+          </Field>
+        </Value>
+        <Value jid="1382110" name="Call Centre &amp; Customer Service">
+          <Field jid="21197" type="List" name="Sub Category">
+            <Values>
+              <Value jid="1382228" name="Call Center Operator" />
+              <Value jid="1382229" name="Call Centre - Inbound" />
+              <Value jid="1382230" name="Call Centre - Outbound" />
+              <Value jid="1382231" name="Customer Service" />
+              <Value jid="1382232" name="Manager" />
+              <Value jid="1382233" name="Team Leader" />
+              <Value jid="1382234" name="Telemarketing" />
+            </Values>
+          </Field>
+        </Value>
+        <Value jid="1382111" name="Defence / Emergency / Security">
+          <Field jid="21197" type="List" name="Sub Category">
+            <Values>
+              <Value jid="1382235" name="Army / Navy / Air Force" />
+              <Value jid="1382236" name="Correctional Services" />
+              <Value jid="1382237" name="Crowd Control" />
+              <Value jid="1382238" name="Emergency Services" />
+              <Value jid="1382239" name="Police / Fire / Ambulance" />
+              <Value jid="1382240" name="Security Guards / Officers" />
+              <Value jid="1382241" name="Security - Other" />
+            </Values>
+          </Field>
+        </Value>
+        <Value jid="1382112" name="Education &amp; Child Care">
+          <Field jid="21197" type="List" name="Sub Category">
+            <Values>
+              <Value jid="1382242" name="Au Pair / Nanny" />
+              <Value jid="1382243" name="Childcare" />
+              <Value jid="1382244" name="Early Childhood - Other" />
+              <Value jid="1382245" name="Languages / Translator" />
+              <Value jid="1382246" name="Lecturer / Professor" />
+              <Value jid="1382247" name="Library" />
+              <Value jid="1382248" name="Primary - Other" />
+              <Value jid="1382249" name="Primary - Teachers" />
+              <Value jid="1382250" name="Principal" />
+              <Value jid="1382251" name="Research" />
+              <Value jid="1382252" name="Secondary - Other" />
+              <Value jid="1382253" name="Secondary - Teachers" />
+              <Value jid="1382254" name="Student Services" />
+              <Value jid="1382255" name="Tutor" />
+              <Value jid="1382256" name="University - Other" />
+            </Values>
+          </Field>
+        </Value>
+        <Value jid="1382113" name="Engineering">
+          <Field jid="21197" type="List" name="Sub Category">
+            <Values>
+              <Value jid="1382257" name="Aeronautics" />
+              <Value jid="1382258" name="Automotive" />
+              <Value jid="1382259" name="Building Services" />
+              <Value jid="1382260" name="CAD / CAE" />
+              <Value jid="1382261" name="Chemical / Process" />
+              <Value jid="1382262" name="Civil / Structural / Design" />
+              <Value jid="1382263" name="Electrical" />
+              <Value jid="1382264" name="Environmental" />
+              <Value jid="1382265" name="Field" />
+              <Value jid="1382266" name="Industrial" />
+              <Value jid="1382267" name="Maintenance" />
+              <Value jid="1382268" name="Management" />
+              <Value jid="1382269" name="Mechanical" />
+              <Value jid="1382270" name="Project Management" />
+              <Value jid="1382271" name="Surveyor" />
+              <Value jid="1382272" name="Systems" />
+              <Value jid="1382273" name="Water &amp; Waste" />
+              <Value jid="1382274" name="Engineering - Other" />
+            </Values>
+          </Field>
+        </Value>
+        <Value jid="1382114" name="Executive Management">
+          <Field jid="21197" type="List" name="Sub Category">
+            <Values>
+              <Value jid="1382275" name="Chairman" />
+              <Value jid="1382276" name="Chief Executive Officer (CEO)" />
+              <Value jid="1382277" name="Chief Financial Officer (CFO)" />
+              <Value jid="1382278" name="Chief Information Officer" />
+              <Value jid="1382279" name="Chief Operating Officer (COO)" />
+              <Value jid="1382280" name="Company Secretary" />
+              <Value jid="1382281" name="Director" />
+              <Value jid="1382282" name="Finance Director (FD)" />
+              <Value jid="1382283" name="General Manager" />
+              <Value jid="1382284" name="Managing Director" />
+              <Value jid="1382285" name="Partner" />
+              <Value jid="1382286" name="Other" />
+            </Values>
+          </Field>
+        </Value>
+        <Value jid="1382115" name="Government / Local Government">
+          <Field jid="21197" type="List" name="Sub Category">
+            <Values>
+              <Value jid="1382287" name="Federal Government" />
+              <Value jid="1382288" name="Local Government" />
+              <Value jid="1382289" name="State Government" />
+            </Values>
+          </Field>
+        </Value>
+        <Value jid="1382116" name="Graduates">
+          <Field jid="21197" type="List" name="Sub Category">
+            <Values>
+              <Value jid="1382290" name="Accounting" />
+              <Value jid="1382291" name="Admin / Secretarial / Office" />
+              <Value jid="1382292" name="Advertising/Media/Publishing" />
+              <Value jid="1382293" name="Architecture &amp; Interior Design" />
+              <Value jid="1382294" name="Arts &amp; Entertainment" />
+              <Value jid="1382295" name="Banking &amp; Finance" />
+              <Value jid="1382296" name="Building &amp; Construction" />
+              <Value jid="1382297" name="Call Centre &amp; Customer Service" />
+              <Value jid="1382298" name="Defence / Emergency / Security" />
+              <Value jid="1382299" name="Education &amp; Child Care" />
+              <Value jid="1382300" name="Engineering" />
+              <Value jid="1382301" name="Government / Local Government" />
+              <Value jid="1382302" name="Healthcare &amp; Medicine" />
+              <Value jid="1382303" name="Hospitality / Travel / Tourism" />
+              <Value jid="1382304" name="HR &amp; Recruitment" />
+              <Value jid="1382305" name="Insurance &amp; Superannuation" />
+              <Value jid="1382306" name="IT &amp; Telecomms" />
+              <Value jid="1382307" name="Legal" />
+              <Value jid="1382308" name="Manufacturing" />
+              <Value jid="1382309" name="Marketing / PR / Events" />
+              <Value jid="1382310" name="Mining / Oil &amp; Gas / Utilities" />
+              <Value jid="1382311" name="Multimedia / Design / New Media" />
+              <Value jid="1382312" name="Real Estate + Property" />
+              <Value jid="1382313" name="Retail" />
+              <Value jid="1382314" name="Sales &amp; Account Management" />
+              <Value jid="1382315" name="Science &amp; Biotechnology" />
+              <Value jid="1382316" name="Sport &amp; Recreation" />
+              <Value jid="1382317" name="Trades &amp; Services" />
+              <Value jid="1382318" name="Transport / Logistics / Drivers" />
+            </Values>
+          </Field>
+        </Value>
+        <Value jid="1382117" name="Healthcare &amp; Medicine">
+          <Field jid="21197" type="List" name="Sub Category">
+            <Values>
+              <Value jid="1382319" name="Administration / Admissions" />
+              <Value jid="1382320" name="Aged Care" />
+              <Value jid="1382321" name="Alternative Medicine" />
+              <Value jid="1382322" name="Ambulance / Paramedic" />
+              <Value jid="1382323" name="Chiropractor" />
+              <Value jid="1382324" name="Clinical / Medical Research" />
+              <Value jid="1382325" name="Critical Care" />
+              <Value jid="1382326" name="Dental" />
+              <Value jid="1382327" name="Management" />
+              <Value jid="1382328" name="Medical Practitioner" />
+              <Value jid="1382329" name="Medical Sales" />
+              <Value jid="1382330" name="Medical Specialist" />
+              <Value jid="1382331" name="Mental Health" />
+              <Value jid="1382332" name="Nurse / Midwive" />
+              <Value jid="1382333" name="Oncology" />
+              <Value jid="1382334" name="Optometry" />
+              <Value jid="1382335" name="Pathology" />
+              <Value jid="1382336" name="Pharmaceuticals" />
+              <Value jid="1382337" name="Pharmacy / Chemist" />
+              <Value jid="1382338" name="Physio / Occupational Therapy" />
+              <Value jid="1382339" name="Psychology" />
+              <Value jid="1382340" name="Radiology / Sonography" />
+              <Value jid="1382341" name="Speech Therapy" />
+              <Value jid="1382342" name="Surgical" />
+              <Value jid="1382343" name="Vets / Vet Science" />
+              <Value jid="1382344" name="Other" />
+            </Values>
+          </Field>
+        </Value>
+        <Value jid="1382118" name="Hospitality / Travel / Tourism">
+          <Field jid="21197" type="List" name="Sub Category">
+            <Values>
+              <Value jid="1382345" name="Airline / Flight Attendant" />
+              <Value jid="1382346" name="Bar and Beverage" />
+              <Value jid="1382347" name="Chef" />
+              <Value jid="1382348" name="Cook" />
+              <Value jid="1382349" name="Front Office" />
+              <Value jid="1382350" name="Gaming &amp; Hotel" />
+              <Value jid="1382351" name="Kitchen Hand" />
+              <Value jid="1382352" name="Management / Supervisor" />
+              <Value jid="1382353" name="Pilot" />
+              <Value jid="1382354" name="Tour Bus Driver" />
+              <Value jid="1382355" name="Tour Guide &amp; Operator" />
+              <Value jid="1382356" name="Travel Agent / Consultant" />
+              <Value jid="1382357" name="Wait Staff" />
+              <Value jid="1382358" name="Other" />
+            </Values>
+          </Field>
+        </Value>
+        <Value jid="1382119" name="HR &amp; Recruitment">
+          <Field jid="21197" type="List" name="Sub Category">
+            <Values>
+              <Value jid="1382359" name="HR - Assistant / Administrator" />
+              <Value jid="1382360" name="HR - Co-ordinator" />
+              <Value jid="1382361" name="HR - Officer / Adviser" />
+              <Value jid="1382362" name="HR - Consultant" />
+              <Value jid="1382363" name="HR - General" />
+              <Value jid="1382364" name="HR - Management" />
+              <Value jid="1382365" name="HR - Director / Head of HR" />
+              <Value jid="1382366" name="OH &amp; S" />
+              <Value jid="1382367" name="Training / Learning &amp; Development" />
+              <Value jid="1382368" name="OD - Organisational Development" />
+              <Value jid="1382369" name="Remuneration and Benefits Specialist" />
+              <Value jid="1382370" name="Industrial Relations Specialist" />
+              <Value jid="1382371" name="Payroll Officer" />
+              <Value jid="1382372" name="HRIS" />
+              <Value jid="1382373" name="HR - Other" />
+              <Value jid="1382374" name="Recruitment - Account Manager" />
+              <Value jid="1382375" name="Recruitment - Manager" />
+              <Value jid="1382376" name="Recruitment - Support/Other" />
+              <Value jid="1382377" name="Recruitment Consultant - Perm" />
+              <Value jid="1382378" name="Recruitment Consultant - Temp / Contract" />
+              <Value jid="1382379" name="Resourcer" />
+              <Value jid="1382380" name="Researcher" />
+              <Value jid="1382381" name="Senior Recruitment Consultant" />
+              <Value jid="1382382" name="State / Country Manager" />
+              <Value jid="1382383" name="Team Leader" />
+              <Value jid="1382384" name="Trainee Consultant" />
+              <Value jid="1382385" name="Recruitment - Other" />
+              <Value jid="1382386" name="Executive Search Consultant" />
+              <Value jid="1382387" name="Office Manager" />
+              <Value jid="1382388" name="Recruitment Centre Manager" />
+              <Value jid="1382389" name="Recruitment Team Leader" />
+              <Value jid="1382390" name="Senior Internal Recruiter" />
+              <Value jid="1382391" name="Internal Recruiter" />
+            </Values>
+          </Field>
+        </Value>
+        <Value jid="1382120" name="Insurance">
+          <Field jid="21197" type="List" name="Sub Category">
+            <Values>
+              <Value jid="1382392" name="Actuary" />
+              <Value jid="1382393" name="Insurance - Broker" />
+              <Value jid="1382394" name="Insurance - Claims &amp; Assessors" />
+              <Value jid="1382395" name="Insurance - General" />
+              <Value jid="1382396" name="Insurance - Life / Health" />
+              <Value jid="1382397" name="Management" />
+              <Value jid="1382398" name="Underwriting" />
+              <Value jid="1382399" name="Workers Compensation" />
+              <Value jid="1382400" name="Other" />
+            </Values>
+          </Field>
+        </Value>
+        <Value jid="1382121" name="IT &amp; Telecomms">
+          <Field jid="21197" type="List" name="Sub Category">
+            <Values>
+              <Value jid="1382401" name="Architect" />
+              <Value jid="1382402" name="Business Analyst" />
+              <Value jid="1382403" name="Consultant - BI / CRM" />
+              <Value jid="1382404" name="Consultant - ERP / Supply Chain" />
+              <Value jid="1382405" name="Consultant - Other" />
+              <Value jid="1382406" name="Consultant - Pre Sales" />
+              <Value jid="1382407" name="Data / Records Management" />
+              <Value jid="1382408" name="DBA / Database Developer" />
+              <Value jid="1382409" name="Hardware Engineer" />
+              <Value jid="1382410" name="Help Desk / Support" />
+              <Value jid="1382411" name="IT Security" />
+              <Value jid="1382412" name="Management" />
+              <Value jid="1382413" name="Network Administration" />
+              <Value jid="1382414" name="Network Engineer" />
+              <Value jid="1382415" name="Project Management / Team Lead" />
+              <Value jid="1382416" name="Sales Exec / Account Manager" />
+              <Value jid="1382417" name="Software - Analyst/Programmer" />
+              <Value jid="1382418" name="Software - Architect" />
+              <Value jid="1382419" name="Software - Developer" />
+              <Value jid="1382420" name="System Administration" />
+              <Value jid="1382421" name="Systems Analyst" />
+              <Value jid="1382422" name="Systems Integration" />
+              <Value jid="1382423" name="Technical Writer / Documenter" />
+              <Value jid="1382424" name="Testing &amp; QA" />
+              <Value jid="1382425" name="Trainer" />
+              <Value jid="1382426" name="WAN / Telecommunications" />
+              <Value jid="1382427" name="Web / Multimedia Designer" />
+              <Value jid="1382428" name="Web / Multimedia Developer" />
+              <Value jid="1382429" name="IT - Other" />
+            </Values>
+          </Field>
+        </Value>
+        <Value jid="1382122" name="Legal">
+          <Field jid="21197" type="List" name="Sub Category">
+            <Values>
+              <Value jid="1382430" name="Law Clerk / Paralegal" />
+              <Value jid="1382431" name="Lawyer - Commercial" />
+              <Value jid="1382432" name="Lawyer - Compliance" />
+              <Value jid="1382433" name="Lawyer - Corporate / M&amp;A" />
+              <Value jid="1382434" name="Lawyer - Employment" />
+              <Value jid="1382435" name="Lawyer - Inhouse" />
+              <Value jid="1382436" name="Lawyer - IP / Trademark" />
+              <Value jid="1382437" name="Lawyer - Litigation" />
+              <Value jid="1382438" name="Lawyer - Personal Injury" />
+              <Value jid="1382439" name="Lawyer - Private Practice Other" />
+              <Value jid="1382440" name="Lawyer - Property / Construction" />
+              <Value jid="1382441" name="Lawyer - Public Practice" />
+              <Value jid="1382442" name="Lawyer - Tax" />
+              <Value jid="1382443" name="Legal Secretary / Admin" />
+              <Value jid="1382444" name="Partner / Manager" />
+              <Value jid="1382445" name="Solicitor" />
+              <Value jid="1382446" name="Legal - Other" />
+            </Values>
+          </Field>
+        </Value>
+        <Value jid="1382123" name="Manufacturing">
+          <Field jid="21197" type="List" name="Sub Category">
+            <Values>
+              <Value jid="1382447" name="Assembly Line / Assembler" />
+              <Value jid="1382448" name="Engineer" />
+              <Value jid="1382449" name="Fitting / Machining" />
+              <Value jid="1382450" name="Industrial Design" />
+              <Value jid="1382451" name="Machinery / Tool Operation" />
+              <Value jid="1382452" name="Management / Supervisor" />
+              <Value jid="1382453" name="Manufacturing Consultant" />
+              <Value jid="1382454" name="Packer / Filler" />
+              <Value jid="1382455" name="Planning" />
+              <Value jid="1382456" name="Plant Management" />
+              <Value jid="1382457" name="Process Work" />
+              <Value jid="1382458" name="Production Worker" />
+              <Value jid="1382459" name="Purchasing / Procurement" />
+              <Value jid="1382460" name="QA" />
+              <Value jid="1382461" name="Research &amp; Development" />
+              <Value jid="1382462" name="Stores &amp; Warehousing" />
+              <Value jid="1382463" name="Toolmaker" />
+              <Value jid="1382464" name="Other" />
+            </Values>
+          </Field>
+        </Value>
+        <Value jid="1382124" name="Marketing / PR / Events">
+          <Field jid="21197" type="List" name="Sub Category">
+            <Values>
+              <Value jid="1382465" name="Brand Manager" />
+              <Value jid="1382466" name="Category Manager" />
+              <Value jid="1382467" name="Database Analyst / Specialist" />
+              <Value jid="1382468" name="Direct Marketer" />
+              <Value jid="1382469" name="E-Marketing" />
+              <Value jid="1382470" name="Event / Conference Management" />
+              <Value jid="1382471" name="Event / Conference Producer" />
+              <Value jid="1382472" name="Marketing Assistant / Coordinator" />
+              <Value jid="1382473" name="Marketing Communications" />
+              <Value jid="1382474" name="Marketing Consultant" />
+              <Value jid="1382475" name="Marketing Director" />
+              <Value jid="1382476" name="Marketing Executive" />
+              <Value jid="1382477" name="Marketing Manager" />
+              <Value jid="1382478" name="Marketing Research" />
+              <Value jid="1382479" name="PR - Media Advisor" />
+              <Value jid="1382480" name="PR - Press Officer" />
+              <Value jid="1382481" name="PR Manager" />
+              <Value jid="1382482" name="Product Development / Management" />
+              <Value jid="1382483" name="Promotions" />
+              <Value jid="1382484" name="Trade Marketing" />
+              <Value jid="1382485" name="Marketing / PR / Events - Other" />
+            </Values>
+          </Field>
+        </Value>
+        <Value jid="1382125" name="Mining / Oil &amp; Gas / Utilities">
+          <Field jid="21197" type="List" name="Sub Category">
+            <Values>
+              <Value jid="1382486" name="Drilling &amp; Blast" />
+              <Value jid="1382487" name="Engineering &amp; Maintenance" />
+              <Value jid="1382488" name="Exploration" />
+              <Value jid="1382489" name="Geoscience" />
+              <Value jid="1382490" name="Labourer" />
+              <Value jid="1382491" name="Manager / Supervisor" />
+              <Value jid="1382492" name="Mineral Processing" />
+              <Value jid="1382493" name="Production" />
+              <Value jid="1382494" name="Utilities" />
+              <Value jid="1382495" name="Other" />
+            </Values>
+          </Field>
+        </Value>
+        <Value jid="1382126" name="Multimedia / Design / New Media">
+          <Field jid="21197" type="List" name="Sub Category">
+            <Values>
+              <Value jid="1382496" name="3D / Special Effects" />
+              <Value jid="1382497" name="Content / Editorial" />
+              <Value jid="1382498" name="Creative" />
+              <Value jid="1382499" name="Designer" />
+              <Value jid="1382500" name="Gaming" />
+              <Value jid="1382501" name="Information Architect" />
+              <Value jid="1382502" name="Management" />
+              <Value jid="1382503" name="Other" />
+            </Values>
+          </Field>
+        </Value>
+        <Value jid="1382127" name="Real Estate &amp; Property">
+          <Field jid="21197" type="List" name="Sub Category">
+            <Values>
+              <Value jid="1382504" name="Admin / Office Support" />
+              <Value jid="1382505" name="Broker" />
+              <Value jid="1382506" name="Commercial" />
+              <Value jid="1382507" name="Facilities Manager" />
+              <Value jid="1382508" name="Leasing" />
+              <Value jid="1382509" name="Property Management" />
+              <Value jid="1382510" name="Residential" />
+              <Value jid="1382511" name="Sales / Agents" />
+              <Value jid="1382512" name="Valuation" />
+              <Value jid="1382513" name="Real Estate - Other" />
+            </Values>
+          </Field>
+        </Value>
+        <Value jid="1382128" name="Retail">
+          <Field jid="21197" type="List" name="Sub Category">
+            <Values>
+              <Value jid="1382514" name="Buyer / Purchaser" />
+              <Value jid="1382515" name="Department Manager" />
+              <Value jid="1382516" name="Duty Manager" />
+              <Value jid="1382517" name="Loss Prevention" />
+              <Value jid="1382518" name="Management - Head Office" />
+              <Value jid="1382519" name="Merchandising" />
+              <Value jid="1382520" name="Retail Assistant" />
+              <Value jid="1382521" name="Sales Assistant" />
+              <Value jid="1382522" name="Store Manager / Supervisor" />
+              <Value jid="1382523" name="Retail - Other" />
+            </Values>
+          </Field>
+        </Value>
+        <Value jid="1382129" name="Sales &amp; Account Management">
+          <Field jid="21197" type="List" name="Sub Category">
+            <Values>
+              <Value jid="1382524" name="Area / Territory Manager" />
+              <Value jid="1382525" name="Key Account Manager" />
+              <Value jid="1382526" name="Sales Assistant / Coordinator" />
+              <Value jid="1382527" name="Sales Executive / BDM" />
+              <Value jid="1382528" name="Sales Manager" />
+              <Value jid="1382529" name="Sales Rep" />
+              <Value jid="1382530" name="Telemarketing" />
+              <Value jid="1382531" name="Telesales" />
+              <Value jid="1382532" name="Sales - Other" />
+            </Values>
+          </Field>
+        </Value>
+        <Value jid="1382130" name="Science &amp; Biotechnology">
+          <Field jid="21197" type="List" name="Sub Category">
+            <Values>
+              <Value jid="1382533" name="Biotech" />
+              <Value jid="1382534" name="Environmental" />
+              <Value jid="1382535" name="Food" />
+              <Value jid="1382536" name="Laboratory / Technical" />
+              <Value jid="1382537" name="Pharmaceutical" />
+              <Value jid="1382538" name="Quality Assurance / Testing" />
+              <Value jid="1382539" name="Research &amp; Development" />
+              <Value jid="1382540" name="Scientist - Other" />
+              <Value jid="1382541" name="Topography" />
+              <Value jid="1382542" name="Other" />
+            </Values>
+          </Field>
+        </Value>
+        <Value jid="1382131" name="Sport &amp; Recreation">
+          <Field jid="21197" type="List" name="Sub Category">
+            <Values>
+              <Value jid="1382543" name="Coach / Instructor" />
+              <Value jid="1382544" name="Fitness Centre Manager" />
+              <Value jid="1382545" name="Fitness Instructor / Trainer" />
+              <Value jid="1382546" name="Management" />
+              <Value jid="1382547" name="Masseuse" />
+              <Value jid="1382548" name="Operations Manager" />
+              <Value jid="1382549" name="Sales" />
+              <Value jid="1382550" name="Sport and Rec - Other" />
+            </Values>
+          </Field>
+        </Value>
+        <Value jid="1382132" name="Trades &amp; Services">
+          <Field jid="21197" type="List" name="Sub Category">
+            <Values>
+              <Value jid="1382551" name="Aircon / Refrigeration" />
+              <Value jid="1382552" name="Apprentice / Trainee" />
+              <Value jid="1382553" name="Baker" />
+              <Value jid="1382554" name="Beauty Therapist / Beautician" />
+              <Value jid="1382555" name="Boat / Marine Specialist" />
+              <Value jid="1382556" name="Boilermaker" />
+              <Value jid="1382557" name="Bricklayer" />
+              <Value jid="1382558" name="Builder" />
+              <Value jid="1382559" name="Butcher" />
+              <Value jid="1382560" name="Carpenter / Cabinet Maker" />
+              <Value jid="1382561" name="Carpet Fitter" />
+              <Value jid="1382562" name="Catering / Beverage" />
+              <Value jid="1382563" name="Chef" />
+              <Value jid="1382564" name="Cleaner" />
+              <Value jid="1382565" name="Concrete / Formwork" />
+              <Value jid="1382566" name="Courier" />
+              <Value jid="1382567" name="Demolition / Excavation" />
+              <Value jid="1382568" name="Electrician" />
+              <Value jid="1382569" name="Floristry" />
+              <Value jid="1382570" name="Funeral Services" />
+              <Value jid="1382571" name="Gardener / Landscaper / Horticulturalist" />
+              <Value jid="1382572" name="Glazier" />
+              <Value jid="1382573" name="Hair Dresser" />
+              <Value jid="1382574" name="Labourer" />
+              <Value jid="1382575" name="Maintenance / Handypeople" />
+              <Value jid="1382576" name="Mechanic / Automotive" />
+              <Value jid="1382577" name="Painting" />
+              <Value jid="1382578" name="Pest Control Specialist" />
+              <Value jid="1382579" name="Plumbing" />
+              <Value jid="1382580" name="Printing" />
+              <Value jid="1382581" name="Removalist" />
+              <Value jid="1382582" name="Technician" />
+              <Value jid="1382583" name="Welder / Metalworker" />
+              <Value jid="1382584" name="Services - Other" />
+              <Value jid="1382585" name="Trades - Other" />
+            </Values>
+          </Field>
+        </Value>
+        <Value jid="1382133" name="Transport / Logistics / Drivers">
+          <Field jid="21197" type="List" name="Sub Category">
+            <Values>
+              <Value jid="1382586" name="Administration" />
+              <Value jid="1382587" name="Aviation" />
+              <Value jid="1382588" name="Customs" />
+              <Value jid="1382589" name="Driver" />
+              <Value jid="1382590" name="Fleet Management" />
+              <Value jid="1382591" name="Freight Forwarding / Shipping" />
+              <Value jid="1382592" name="Importer / Exporter" />
+              <Value jid="1382593" name="Management" />
+              <Value jid="1382594" name="Operations" />
+              <Value jid="1382595" name="Planning" />
+              <Value jid="1382596" name="Purchasing" />
+              <Value jid="1382597" name="Stevedoring" />
+              <Value jid="1382598" name="Support / Customer Service" />
+              <Value jid="1382599" name="Transport" />
+              <Value jid="1382600" name="Warehouse &amp; Distribution" />
+              <Value jid="1382601" name="Logistics - Other" />
+              <Value jid="1382602" name="Supply Chain - Other" />
+            </Values>
+          </Field>
+        </Value>
+        <Value jid="1382134" name="Volunteer / Charity / Community">
+          <Field jid="21197" type="List" name="Sub Category">
+            <Values>
+              <Value jid="1382603" name="Charity" />
+              <Value jid="1382604" name="Church / Religious" />
+              <Value jid="1382605" name="Counsellor" />
+              <Value jid="1382606" name="Fundraising" />
+              <Value jid="1382607" name="Social Work" />
+              <Value jid="1382608" name="Support Services" />
+              <Value jid="1382609" name="Volunteer" />
+              <Value jid="1382610" name="Other" />
+            </Values>
+          </Field>
+        </Value>
+      </Values>
+    </Field>
+    <Field jid="21198" type="List" name="Location">
+      <Values>
+        <Value jid="1382611" name="Sydney" />
+        <Value jid="1382612" name="NSW Other" />
+        <Value jid="1382613" name="Melbourne" />
+        <Value jid="1382614" name="VIC Other" />
+        <Value jid="1382615" name="Brisbane" />
+        <Value jid="1382616" name="Gold Coast" />
+        <Value jid="1382617" name="QLD Other" />
+        <Value jid="1382618" name="Perth" />
+        <Value jid="1382619" name="WA Other" />
+        <Value jid="1382620" name="Adelaide" />
+        <Value jid="1382621" name="SA Other" />
+        <Value jid="1382622" name="Hobart" />
+        <Value jid="1382623" name="TAS Other" />
+        <Value jid="1382624" name="ACT" />
+        <Value jid="1382625" name="Northern Territory" />
+      </Values>
+    </Field>
+    <Field jid="21199" type="List" name="Work Type">
+      <Values>
+        <Value jid="1382626" name="Permanent / Full Time" />
+        <Value jid="1382627" name="Contract or Temp" />
+        <Value jid="1382628" name="Part-time" />
+        <Value jid="1382629" name="Casual" />
+      </Values>
+    </Field>
+  </Fields>
+  <Job jid="676033" reference="569115" datePosted="2018-02-26" dateUpdated="2018-02-26T06:03:42Z">
+    <Title>Doctor - GP- Hampstead Health</Title>
+    <Summary>A fabulous opportunity awaits for a VR General Practitioner to commence full time at an established and busy clinic.</Summary>
+    <Description><![CDATA[<div><strong>General Practitioner - GP - Adelaide - $500 - $600kpa&nbsp; - Believe it!!!</strong><br> <br> <br> A fabulous opportunity awaits for a VR General Practitioner to commence full time at an established and busy clinic located just outside of Adelaide's CBD.<br> &nbsp;<br> This successful practice features 20 consulting rooms, a large treatment room, pharmacy, nursing support, full complement of allied health and specialists all under one roof! Currently the practice sees over 2500 presentations weekly and would welcome a GP to come on board and inherit a full patient base from a recently departed GP.<br> &nbsp;<br> Generous billings are on offer, as also flexible working hours. Opportunities for GPs desirous to work after hours and also on a locum basis if subject to the moratorium.&nbsp;<br> &nbsp;<br> <strong>Offer:</strong><br> <br> <ul> <li>Full time &amp; part time considered; bring your specialisation!&nbsp;</li> <li>Extremely busy established clinic; strong operational support</li> <li>Open contracts -&nbsp;75% Billings - GPs here take home $10k weekly</li> <li>Inherit full patient base from recently departed GP</li> <li>Dedicated parking - Premium facilities</li> <li>Just 10 min outside of the CBD</li> <li>GPs subject to the moratorium able to work after hours or on a locum contract</li> </ul> <strong>Requirements:</strong>&nbsp;General Practitioners with Vocational Registration with AHPRA a must (FRACGP, ACCRRM, FRNZCG, MRCGP via JCPTGP, CFPC, MICGP)&nbsp;&nbsp;</div>]]></Description>
+    <BulletPoints>
+      <BulletPoint>75% of Billings</BulletPoint>
+      <BulletPoint>High Minimum Income Guarantee</BulletPoint>
+      <BulletPoint>Flexible hours</BulletPoint>
+    </BulletPoints>
+    <Classifications>
+      <Classification jid="21196" name="Category" vid="1382117">Healthcare &amp; Medicine</Classification>
+      <Classification jid="21197" name="Sub Category" vid="1382328">Medical Practitioner</Classification>
+      <Classification jid="21198" name="Location" vid="1382620">Adelaide</Classification>
+      <Classification jid="21199" name="Work Type" vid="1382626">Permanent / Full Time</Classification>
+    </Classifications>
+    <Fields />
+    <Apply>
+      <EmailTo>adlangman@outlook.com</EmailTo>
+      <Url>https://apply.jobadder.com/au2/4568/676033/uyoemdxon5huff5qj4ateghr4y</Url>
+    </Apply>
+  </Job>
+</Jobs>
